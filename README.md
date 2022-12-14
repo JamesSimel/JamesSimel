@@ -4,3 +4,4 @@
 - I’m currently learning Google IT support (Becoming a power User)
 - I love collaborating with others to make the world (the internet) a better place
 - Reach me on my website https://simel.me/
+- I am very good in SQL.
