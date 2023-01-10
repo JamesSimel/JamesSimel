@@ -1,7 +1,7 @@
 - Hi, I’m @JamesSimel
-- Webdeveloper {Front-End Development}
-- I’m interested in technology especially software engineering.
-- I’m currently learning Google IT support (Becoming a power User)
+- Full-Stack WebDeveloper {PENR Stack - Postgresql,Express, React,Node}
+- I’m interested in technology especially software development.
+- I love contributing to Open, let me know if you have a project we can work on thanks: asksimel@gmail.com
 - I love collaborating with others to make the world (the internet) a better place
 - Reach me on my website https://simel.me/
 - I am very good in SQL.
