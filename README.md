@@ -1,5 +1,5 @@
-- Hi, I’m @JamesSimel
-- Full-Stack WebDeveloper {PERN Stack - Postgresql,Express, ReactJs, NodeJs, SQL}
+- ## Hi👋, I’m @JamesSimel
+- **Full-Stack WebDeveloper** {PERN Stack - Postgresql,Express, ReactJs, NodeJs, SQL}
 - I’m interested in technology especially software development.
 - I love contributing to Open, let me know if you have a project we can work on thanks: asksimel@gmail.com
 - I love collaborating with others to make the world (the internet) a better place
