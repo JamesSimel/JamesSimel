@@ -3,4 +3,3 @@
 - I love❤️ Tech - software development.
 - I love contributing to OpenSourcing, let me know if you have a project we can work on thanks: asksimel@gmail.com
 - I am adventureous - Always learning(the internet) a better place.
-- See my projects: https://www.simel.me/
