@@ -27,9 +27,9 @@ With 3 years of professional experience, I specialize in building robust, scalab
   - Custom dashboard development
 
 #### Web Development
-- [Naskayizzy](website-url) - Corporate website with modern UI/UX
-- [Get 200](website-url) - Company platform with advanced features
-- [Simel Technologies](website-url) - Business solutions platform
+- [Naskayizzy](https://naskayizzy.netlify.app/) - Corporate website with modern UI/UX
+- [Get 200](https://get200.netlify.app/) - Company platform with advanced features
+- [Simel Technologies](https://simeltechnologies.com/) - Business solutions platform
 
 #### Zoho Expertise 💼
 
