@@ -70,7 +70,7 @@ I'm passionate about contributing to open-source projects and building community
 ### Get in Touch 📫
 - 💼 Open for freelance projects and consulting
 - 📧 Email: kjsimel@gmail.com
-- 🌐 Portfolio: [Your Portfolio URL]
+- 🌐 Portfolio: [Coming UP]
 - 💻 Available on Upwork and Fiverr
 
 ### Fun Facts 🎯
