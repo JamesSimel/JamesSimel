@@ -29,7 +29,7 @@ With 3 years of professional experience, I specialize in building robust, scalab
 #### Web Development
 - [Naskayizzy](https://naskayizzy.netlify.app/) - Corporate website with modern UI/UX
 - [Get 200](https://get200.netlify.app/) - Company platform with advanced features
-- [Simel Technologies](https://simeltechnologies.com/) - Business solutions platform
+- [Analytics Pro Dashboard](https://demo-saas-dashboard.vercel.app/) - Business solutions platfor
 
 #### Zoho Expertise 💼
 
@@ -70,7 +70,7 @@ I'm passionate about contributing to open-source projects and building community
 ### Get in Touch 📫
 - 💼 Open for freelance projects and consulting
 - 📧 Email: kjsimel@gmail.com
-- 🌐 Portfolio: [Coming UP]
+- 🌐 Portfolio: [https://jamassimel.netlify.app/]
 - 💻 Available on Upwork and Fiverr
 
 ### Fun Facts 🎯
