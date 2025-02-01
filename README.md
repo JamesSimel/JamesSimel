@@ -69,8 +69,8 @@ I'm passionate about contributing to open-source projects and building community
 
 ### Get in Touch 📫
 - 💼 Open for freelance projects and consulting
-- 📧 Email: kjsimel@gmail.com
-- 🌐 [Portfolio]:(https://jamessimel.netlify.app/)
+- 📧 Email: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kjsimel@gmail.com)
+- 🌐 [Portfolio](https://jamessimel.netlify.app/)
 - 💻 Available on Upwork and Fiverr
 
 ### Fun Facts 🎯
